@@ -1,0 +1,13 @@
+node_modules
+dist
+.git
+.gitignore
+.claude
+*.log
+.env
+.env.local
+.DS_Store
+coverage
+.vscode
+.idea
+README.md
